@@ -131,7 +131,7 @@ body {
 
 	.header{
 		padding:22px;
-		width:100%;
+		width:95%;
 		height:220px;
 		display:flex;
 		float:left;
@@ -145,14 +145,15 @@ body {
 	}
 
 	#profileimage{
-		width:150px;
-		height:150px;
+		width:180px;
+		height:180px;
 		margin:10px 20px;
 		border-radius: 50% 50%;
 	}
 
 	.section{
 		margin-bottom:30px;
+		font-size:13rem;
 	}
 
 	.course td{
@@ -162,7 +163,8 @@ body {
 
 	.graduation td{
 		padding:10px 10px;
-		line-height:15pt;
+		line-height:15rem;
+		font-size:13rem;
 	}
 }
 
