@@ -1,0 +1,87 @@
+	<div class="container">
+		<div class="navigation">
+			<img src="media/icons/hecate.png" width="150px">
+			<ul class="navitems">
+				<li><a class="menu" href="#bio">Biografia</a></li>
+				<li><a class="menu" href="#edu">Educação</a></li>
+				<li><a class="menu" href="#fili">Afiliação</a></li>
+				<li><a class="menu" href="#courses">Disciplinas</a></li>
+				<li><a class="menu" href="#research">Pesquisa</a></li>
+			</ul>
+		</div>
+		<div class="content">
+			<div class="header">
+					<img src="media/image/profile.jpg" id="profileimage">
+					<div>
+						<h1>Maurício da Silva Pires</h1>
+					
+						Niterói, Rio de Janeiro - Brasil <br>
+						mailto: mspires@id.uff.br <br>
+						<br>
+						<img src="media/icons/gscholar.png" class="icon">&nbsp;&nbsp;
+						<img src="media/icons/w-lattes.png" class="icon">&nbsp;&nbsp;
+						<img src="media/icons/orcid.png" class="icon">&nbsp;&nbsp;
+						<a href="https://github.com/SPires" target="_blank"><img src="media/icons/w-github.png" class="icon"></a>&nbsp;&nbsp;
+						<img src="media/icons/rgate.png" class="icon">&nbsp;&nbsp;
+						<img src="media/icons/w-academia.png" class="icon">&nbsp;&nbsp;
+						<img src="media/icons/sprof.png" class="icon">&nbsp;&nbsp;
+					</div>
+			</div>
+			<div id="bio" class="section" style="margin-top:40px">
+				<h2> Biografia </h2>
+			</div>
+			<div id="edu" class="section">
+				<h2> Educação </h2>
+				<table class="graduation">
+					<tr>
+						<td style="text-align:right"> 2020 - presente </td>
+						<td> <img src="media/icons/graduate-cap.png" width="15px">&nbsp; Doutorado em Computação (UFF)<br>
+							<img src="media/icons/news.png" width="15px">&nbsp; Untitled<br>
+							<img src="media/icons/user.png" width="15px">&nbsp; Orientador: Uéverton dos Santos Souza<br>
+							<img src="media/icons/user.png" width="15px">&nbsp; Co-orientador: Bruno Lopes Vieira<br>
+						</td>
+					</tr>
+					<tr>
+						<td style="text-align:right"> 2018 - 2020 </td>
+						<td> <img src="media/icons/graduate-cap.png" width="15px">&nbsp; Mestrado em Computação (UFF)<br>
+							<img src="media/icons/news.png" width="15px">&nbsp; Revisitando o Teorema de Courcelle<br>
+							<img src="media/icons/user.png" width="15px">&nbsp; Orientador: Bruno Lopes Vieira<br>
+							<img src="media/icons/user.png" width="15px">&nbsp; Co-orientador: Uéverton dos Santos Souza
+						</td>
+					</tr>
+					<tr>
+						<td style="text-align:right"> 2014 - 2017 </td>
+						<td> <img src="media/icons/graduate-cap.png" width="15px">&nbsp; Graduação em Ciência da Computação (UFF)<br>
+							<img src="media/icons/news.png" width="15px">&nbsp; Verificação simbólica de artefatos B utilizando narrowing<br>
+							<img src="media/icons/user.png" width="15px">&nbsp; Orientador: Christiano de Oliveira Braga
+						</td>
+					</tr>
+				</table>
+			</div>
+			<div id="fili" class="section">
+				<h2> Afiliação </h2>
+			</div>
+			<div id="courses" class="section">
+				<h2> Disciplinas </h2>
+				<table class="course">
+					<tr>
+						<td>Abr'20-presente</td>
+						<td> <img src="media/icons/online-course.png" width="15px">&nbsp;&nbsp;&nbsp;<strong>Fundamentos de Algoritmos para Computação&nbsp;&nbsp;[EAD05004]</strong></td>
+					</tr>
+					<tr>
+						<td></td>
+						<td> <img src="media/icons/news.png" width="15px">&nbsp;&nbsp; Preliminares em teoria dos conjuntos</td>
+					</tr>
+				<table>
+				<table class="course">
+					<tr>
+						<td>Fev'20-presente</td>
+						<td> <img src="media/icons/online-course.png" width="15px">&nbsp;&nbsp;&nbsp;<strong>Matemática para Computação&nbsp;&nbsp;[EAD05008]</strong></td>
+					</tr>
+				<table>
+			</div>
+			<div id="research" class="section">
+				<h2> Interesses de pesquisa e publicações </h2>
+			</div>
+		</div>
+	</div>
